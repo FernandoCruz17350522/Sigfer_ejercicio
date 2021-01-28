@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body
+{
+  background: url(fondos/fondonegro.png);
+  margin: 10px auto;
+  color: #000000;
+  width: 80%;
+}
+p
+{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+div.cuadro
+{
+  width: 500px;
+  height: 250px;
+  margin:auto;
+  border: 2px;
+  border-style: solid;
+  border-radius: 30px;
+  border-color: rgb(240, 194, 9);
+  background-color: rgb(240, 14, 9);
+  align-items: center;
+}
+p.etiqueta
+{
+  display: block;
+  background-color: rgb(240, 194, 9);
+  color: rgb(255, 255, 255);
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body
+{
+  background-image: url(fondos/regal.png);
+  margin: 10px auto;
+  width: 80%;
+}
+h1
+{
+  font-family: 'Roboto', sans-serif;
+  color: rgb(27, 4, 218);
+  text-align: center;
+}
+strong
+{
+  color: rgb(232, 0, 0);
+}
